@@ -1,0 +1,9 @@
+Conclusions
+
+Based on the prior analysis, the following conclusions can be made:
+
+- Within the district overall, students did much better in reading than in math, w/ ~ 86% passing reading compared to ~75% passing math.
+
+- Students at larger schools did worse overall, w/ an overall passing rate of ~76% at schools w/ over 2,000 students compared to ~95% for students at schools w/ less than 2,000 students.
+
+- Students at 'charter' schools did much better than students at 'district' schools, w/ 'charter' schools having an overall passing rate of ~95% compared to ~74% at 'district' schools.
